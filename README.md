@@ -4,7 +4,7 @@
 Imagine a world where anyon regardless of technical expertis can seamlessly extract valuable insights from complex retail datasets. The **AI-Powered Retail Query Engine** makes this vision a reality. By blending the precision of **SQL** with the simplicity of **Natural Language Processing (NLP)**, this project redefines how professionals access and interpret data, empowering retail leaders to make informed decisions faster than ever before.  
 
 
-## 🚀 Key Features  
+## Key Features  
 ### 🔹 **Natural Language to SQL**  
 No SQL? No problem. Simply ask your question in plain English, and the system transforms it into an accurate SQL query to fetch your data.  
 
