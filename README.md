@@ -1,7 +1,7 @@
 # AI-Powered Retail Query Engine: Revolutionizing Data Accessibility  
 
 ## 🌟 Project Vision  
-Imagine a world where anyone—regardless of technical expertise—can seamlessly extract valuable insights from complex retail datasets. The **AI-Powered Retail Query Engine** makes this vision a reality. By blending the precision of **SQL** with the simplicity of **Natural Language Processing (NLP)**, this project redefines how professionals access and interpret data, empowering retail leaders to make informed decisions faster than ever before.  
+Imagine a world where anyon regardless of technical expertis can seamlessly extract valuable insights from complex retail datasets. The **AI-Powered Retail Query Engine** makes this vision a reality. By blending the precision of **SQL** with the simplicity of **Natural Language Processing (NLP)**, this project redefines how professionals access and interpret data, empowering retail leaders to make informed decisions faster than ever before.  
 
 
 ## 🚀 Key Features  
